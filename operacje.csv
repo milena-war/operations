@@ -1,0 +1,32 @@
+data,rodzaj operacji,opis operacji,kwota operacji
+2022-06-01,przychód,wynagrodzenie za pracę,4000
+2022-06-03,wydatek,opłata za prąd,200
+2022-06-08,wydatek,opłata za wodę,120
+2022-06-15,wydatek,zakupy spożywcze,350
+2022-06-25,wydatek,opłata za internet,80
+2022-07-01,przychód,wynagrodzenie za pracę,4000
+2022-07-05,wydatek,opłata za gaz,150
+2022-07-12,wydatek,zakupy spożywcze,420
+2022-07-18,wydatek,opłata za telefon,50
+2022-07-26,wydatek,opłata za internet,80
+2022-08-01,przychód,wynagrodzenie za pracę,4000
+2022-08-05,wydatek,opłata za prąd,200
+2022-08-12,wydatek,zakupy spożywcze,380
+2022-08-19,wydatek,opłata za wodę,120
+2022-08-25,wydatek,opłata za internet,80
+2022-09-01,przychód,wynagrodzenie za pracę,4000
+2022-09-03,wydatek,opłata za gaz,150
+2022-09-10,wydatek,zakupy spożywcze,400
+2022-09-17,wydatek,opłata za telefon,50
+2022-09-24,wydatek,opłata za internet,80
+2022-06-02,przychód,odsetki z lokaty bankowej,50
+2022-06-20,przychód,zwrot podatku,200
+2022-07-15,przychód,sprzedaż rzeczy na portalu aukcyjnym,100
+2022-08-10,przychód,zwrot nadpłaconych składek ZUS,300
+2022-09-05,przychód,wypłata z inwestycji,500
+2022-06-22,wydatek,naprawa samochodu,500
+2022-07-29,wydatek,wakacje,2000
+2022-08-16,wydatek,remont łazienki,1500
+2022-09-14,wydatek,ubezpieczenie samochodu,500
+2022-06-18,wydatek,naprawa dachu,1000
+2022-07-02,wydatek,naprawa lodówki,300
