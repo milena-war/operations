@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 statistics = {}
 
 with open('operacje.csv', encoding='utf8', newline='') as csvfile:
-    columns = ['data', 'rodzaj operacji', 'opis operacji', 'kowta operacji']
+    columns = ['data', 'rodzaj operacji', 'opis operacji', 'kwota operacji']
     # dane pobrane z pliku
     reader = csv.DictReader(csvfile)
     for line in reader:
